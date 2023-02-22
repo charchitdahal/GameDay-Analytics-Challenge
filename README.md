@@ -8,4 +8,11 @@ The Super Bowl is widely recognized as one of the world's most viewed live sport
 
 The analytics competition organizers provided us with the Twitter dataset, which comprised a dataset of 2 million tweets taken during the Super Bowl. The data was divided into digestible bits using a python program, and it was ready to be uploaded to Domo, a data management and analytics platform. An extract, transform, and load (ETL) procedure was created in Domo to aggregate and clean the data, preparing it for analysis. 
 
+![Fig 1. Example of Python code used to import the Twitter data set using the pandas package. Code will be provided in the References section.](/images/python.png)
+
 Domo’s robust analytics tools were used to create time series plots, word clouds, and geolocation maps, among others, to examine the data. These cards were used to uncover trends and insights into the data, including engagement levels, popular brands, and even celebrity influence. Lastly, the findings were displayed in a variety of visually appealing and educational visualization tools, which offered insights into the Super Bowl LVII advertising scene. 
+
+![Fig 2. Schematic showing the workflow of the data reduction and cleaning process.](/images/domo.png)
+
+[Full White Paper and Domo Link Coming Soon](#)
+
